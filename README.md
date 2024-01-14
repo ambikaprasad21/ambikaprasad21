@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambikaprasad21" alt="ambikaprasad21" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ambika-portfolio.vercel.app](https://ambika-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at <a href="https://ambika-portfolio.vercel.app" target="_blank">https://ambika-portfolio.vercel.app</a>
 
 - 💬 Ask me about **Css, JavaScript, React, Node, Express, MongoDB**
 
